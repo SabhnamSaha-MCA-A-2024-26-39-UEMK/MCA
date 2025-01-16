@@ -1,0 +1,1 @@
+Hi there! 👋 I'm a Computer Science student passionate about programming and software development. In this repository, I upload my work ranging from basic to advanced level projects and code in various programming languages. I’ve worked on projects using Java, C, Python, Swing (Java GUI), and MySQL. 
